@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'hasegawa'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_1a89db264f454346a8006caaf1959b4e }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2e5ef828d3a746979d5bd9fcaf490acf }}
